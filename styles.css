@@ -7,6 +7,9 @@
 	background-color:black;
 	color:white;
 }
+div:nth-child(2){
+	color:black;
+}
 
  div :last-child{
 	color: red;
