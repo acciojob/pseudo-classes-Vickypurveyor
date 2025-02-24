@@ -14,21 +14,3 @@ div:nth-child(2){
  div :last-child{
 	color: red;
 }
-
- ul li:nth-child(1){
-	background-color:white;
-}
- ul li:nth-child(2){
-    background-color: slategrey;
-}
-
-ul li:nth-child(3){
-	background-color:pink;
-}
-
- ul li:nth-child(4){
-    background-color: slategrey;
-}
-ul li:nth-child(5){
-	background-color:white;
-}
